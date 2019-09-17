@@ -1,8 +1,10 @@
-clonar um git -> Git clone "link"
+clonar um git -> 
+		git clone "link"
 
-atualizar repositorio -> git pull 
+atualizar repositorio -> 
+			git pull 
 
 Salvar no git -> 
 		git add .
-		git commit -m "coloca aqui o comentario da mudança"
+		git commit -m "coloca aqui o comentario da mudanÃ§a"
 		git push
