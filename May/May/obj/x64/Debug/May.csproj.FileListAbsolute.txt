@@ -1,0 +1,9 @@
+C:\Users\Leo\source\repos\May\May\bin\x64\Debug\May.exe.config
+C:\Users\Leo\source\repos\May\May\bin\x64\Debug\May.exe
+C:\Users\Leo\source\repos\May\May\bin\x64\Debug\May.pdb
+C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.Form1.resources
+C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.Properties.Resources.resources
+C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.csproj.GenerateResource.cache
+C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.csproj.CoreCompileInputs.cache
+C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.exe
+C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.pdb
