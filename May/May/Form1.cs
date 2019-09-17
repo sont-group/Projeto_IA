@@ -33,7 +33,7 @@ namespace May
             recognizer.SpeechRecognized += new EventHandler<SpeechRecognizedEventArgs>(recognizer_SpeechRecognized);
         }
 
-         void recognizer_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
+         public void recognizer_SpeechRecognized(object sender, SpeechRecognizedEventArgs e)
         {
             switch (e.Result.Text)
             {

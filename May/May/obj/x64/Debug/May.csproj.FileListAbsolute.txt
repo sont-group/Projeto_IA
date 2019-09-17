@@ -7,3 +7,13 @@ C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.csproj.GenerateResource.cach
 C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.csproj.CoreCompileInputs.cache
 C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.exe
 C:\Users\Leo\source\repos\May\May\obj\x64\Debug\May.pdb
+C:\Users\jonat\Desktop\Projeto_IA\May\May\bin\x64\Debug\May.exe.config
+C:\Users\jonat\Desktop\Projeto_IA\May\May\bin\x64\Debug\May.exe
+C:\Users\jonat\Desktop\Projeto_IA\May\May\bin\x64\Debug\May.pdb
+C:\Users\jonat\Desktop\Projeto_IA\May\May\obj\x64\Debug\May.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\Projeto_IA\May\May\obj\x64\Debug\May.Form1.resources
+C:\Users\jonat\Desktop\Projeto_IA\May\May\obj\x64\Debug\May.Properties.Resources.resources
+C:\Users\jonat\Desktop\Projeto_IA\May\May\obj\x64\Debug\May.csproj.GenerateResource.cache
+C:\Users\jonat\Desktop\Projeto_IA\May\May\obj\x64\Debug\May.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\Projeto_IA\May\May\obj\x64\Debug\May.exe
+C:\Users\jonat\Desktop\Projeto_IA\May\May\obj\x64\Debug\May.pdb
